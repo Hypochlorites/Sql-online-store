@@ -1,0 +1,1 @@
+Basic sql project made to learn querying, having incredibly limited front end capabilities. Basic authentication with stored passwords being hashed. 3 tables, one of which uses foreign keys. Queries add rows to existing tables, edit rows in existing tables, delete rows in existing rables, and select information from the tables.
